@@ -1,0 +1,9 @@
+Building BitcoinCashScrypt
+
+See doc/readme-qt.rst for instructions on building BitcoinCashScrypt QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinCashScrypt.
+
+See doc/build-*.txt for instructions on building bitcoincashscryptd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinCashScrypt.
